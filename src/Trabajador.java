@@ -99,6 +99,8 @@ public class Trabajador {
             //si no supera los 6000 lo asignamos
             if(sueldoTemp< MAX_SUELDO_ANALISTA)
                 sueldo=sueldoTemp;
+            else
+                sueldo=MAX_SUELDO_ANALISTA;
         }
 
     }
