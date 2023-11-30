@@ -27,8 +27,10 @@ iii.	puesto: Asigna el valor a puesto y en función del puesto, asigna el sueldo
 1.	ANALISTA ->3000
 2.	PROGRAMADOR->2000
 3.	BECARIO ->1500
+   
 c.	Getter:
-i.	Crea los getter para las propiedades de la clase (1p)
+
+* Crea los getter para las propiedades de la clase (1p)
  
 
 d.	Setter:
